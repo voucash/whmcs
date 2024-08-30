@@ -1,5 +1,5 @@
 # whmcs接入VouCash
-whmcs VouCash支付插件 支持USDT，关于 [VouCash](https://voucash.com/cn/about)
+whmcs VouCash支付插件 支持USDT，关于 [VouCash](https://github.com/voucash/voucash)
 
 ### 设置
 
